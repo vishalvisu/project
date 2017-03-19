@@ -5,4 +5,4 @@ main.story : contains different types of errors . Basically dummy issues . We ca
 
 # Contribution Guidelines
 
-Create a pull request to add a new story with file name "<usernmae>.story" , with your story that can be converted into dummy issues .
+Create a pull request to add a new story with file name **username.story** , with your story that can be converted into dummy issues .
